@@ -59,8 +59,5 @@ id
 
 ![ACL](screenshots/acl.png)
 
-### Final Output
-
-![Final Output](screenshots/final-output.png)
 
 
